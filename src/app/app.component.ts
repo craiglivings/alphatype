@@ -13,7 +13,7 @@ export class AppComponent {
   letters = {
     a: { text: "amber", image: "amber.jpg" },
     b: { text: "banana", image: "banana.jfif" },
-    c: { text: "cat", image: "cat.jpeg" },
+    c: { text: "cat", image: "cat.jpg" },
     d: { text: "daddy", image: "daddy.jpg" },
     e: { text: "elephant", image: "elephant.jpg" },
     f: { text: "fox", image: "fox.jpg" },
